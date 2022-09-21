@@ -8,4 +8,4 @@ Go to one of my post to see the live demo
 # Installation
 add the code in this repo inside `function.php`
 
-add this code `breadcrumbs();` to your single-post.php or single.php
+add this code `wa_breadcrumbs();` to your single-post.php or single.php
