@@ -1,4 +1,4 @@
-function breadcrumbs() {
+function wa_breadcrumbs() {
 	global $post;
 	echo '<nav aria-label="breadcrumb">';
 	echo '<ol class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">';
